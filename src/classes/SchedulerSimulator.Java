@@ -1,7 +1,9 @@
+package classes;
+
 class SchedulerSimulator{
     private UserInterface ui;
     private LongTermScheduler lts;
-    private ShortTermScherduler sts;
+    private ShortTermScheduler sts;
 
     public SchedulerSimulator(){
         

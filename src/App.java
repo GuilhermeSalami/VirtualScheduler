@@ -1,7 +1,11 @@
-import classes.VirtualCompiler;
+
+
+import classes.LongTermScheduler;
 
 public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Ola, mundo");
+
+    public static void main(String[] args) {
+            System.out.println("Hello World!");
+        }
     }
-}
+
